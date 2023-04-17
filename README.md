@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **internships.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dhruvin3103]([https://github.com/devvp8](https://github.com/Dhruvin3103))
+- 👨‍💻 All of my projects are available at https://github.com/Bhavu2412
 
 - 📫 How to reach me **patelbhavya2412@gmail.com**
 
