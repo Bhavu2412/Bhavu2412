@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development[NODEJS,HTML,CSS,JAVASCRIPT,REACTJS].**
 
-- 👯 I’m looking to collaborate on **on NodeJs projects.**
+- 👯 I’m looking to collaborate on ** NodeJs projects.**
 
 - 🤝 I’m looking for help with **internships.**
 
