@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavya Shaileshkumar Patel</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
 - 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
