@@ -3,7 +3,7 @@
 
 - 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
-- 🌱 I’m currently learning **Web Development[NODEJS,HTML,CSS,JAVASCRIPT,REACTJS].**
+- 🌱 I’m currently learning **Web Development[NODEJS,HTML,CSS,JAVASCRIPT].**
 
 - 👯 I’m looking to collaborate on **NodeJs projects.**
 
