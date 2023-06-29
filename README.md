@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development[NODEJS,HTML,CSS,JAVASCRIPT].**
 
-- 👯 I’m looking to collaborate on **NodeJs projects.**
+- 👯 I’m looking to collaborate on **NodeJs and ReactJs projects.**
 
 - 🤝 I’m looking for help with **internships.**
 
@@ -31,6 +31,9 @@
 </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
 </a>
 
 
