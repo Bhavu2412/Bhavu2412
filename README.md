@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhavya Shaileshkumar Patel</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
-- 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+- 🎓 **Final Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
-- 🌱 I’m currently learning **Web Development[REACTJS,NODEJS,HTML,CSS,JAVASCRIPT].**
+- 🌱 I’m currently learning **Web Development[NEXTJS].**
 
-- 👯 I’m looking to collaborate on **NodeJs and ReactJs projects.**
+- 👯 I’m looking to collaborate on ** M.E.R.N projects.**
 
-- 🤝 I’m looking for help with **internships.**
+- 🤝 I’m looking for help with **internships and freelancing .**
 
 - 👨‍💻 All of my projects are available at https://github.com/Bhavu2412
 
