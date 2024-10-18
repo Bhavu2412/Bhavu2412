@@ -47,6 +47,9 @@
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a>
+<a href="https://botpress.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/botpress/branding/main/botpress_icon.svg" alt="Botpress" width="40" height="40"/>
+</a>
 
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
